@@ -41,11 +41,7 @@ projects to improve my programming and problem-solving skills.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=novaluxe918&show_icons=true&theme=default" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=novaluxe918&layout=compact&theme=default" />
+  <img src="https://ghstats.dev/api/card?username=novaluxe918" />
 </p>
 
 ## 🔥 GitHub Streak
