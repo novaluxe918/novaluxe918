@@ -38,6 +38,7 @@ projects to improve my programming and problem-solving skills.
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,idea" />
 </p>
+
 ## 📊 GitHub Stats
 
 <p align="center">
