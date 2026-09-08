@@ -15,16 +15,26 @@ projects to improve my programming and problem-solving skills.
 ## 🛠️ Tech Stack
 
 ### Backend
-Java • Spring Boot • REST API
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring" />
+</p>
 
 ### Database
-MySQL • SQL
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
 
 ### Frontend
-HTML • CSS • JavaScript • React
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+</p>
 
 ### AI / Computer Vision
-Python • YOLO
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
 
 ### Tools
-Git • GitHub • IntelliJ IDEA • VS Code
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea" />
+</p>
