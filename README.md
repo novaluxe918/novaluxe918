@@ -38,3 +38,12 @@ projects to improve my programming and problem-solving skills.
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,idea" />
 </p>
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=novaluxe918&show_icons=true&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=novaluxe918&layout=compact&hide_border=true" />
+</p>
