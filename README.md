@@ -49,3 +49,13 @@ projects to improve my programming and problem-solving skills.
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=novaluxe918&theme=default" />
 </p>
+## 💻 Top Languages
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=novaluxe918&theme=default" />
+</p>
+## 🔥 Contribution
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=novaluxe918&theme=default" />
+</p>
